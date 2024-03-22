@@ -1,0 +1,13 @@
+h1{
+   text-align: center; 
+   background-color: #39386a;
+   
+  
+} 
+section{
+    flex-direction: column;
+    justify-items: center;
+    
+    
+
+}
